@@ -23,7 +23,7 @@
     <NuGetPackageImportStamp>b34345ff</NuGetPackageImportStamp>
     <AppxAutoIncrementPackageRevision>False</AppxAutoIncrementPackageRevision>
     <AppxBundlePlatforms>x86|x64</AppxBundlePlatforms>
-    <PackageCertificateThumbprint>5940F60E57BB7A32E713015C671BEF727E4D5F3D</PackageCertificateThumbprint>
+    <PackageCertificateThumbprint>EF45A685C9633AD57E179C69FC858E67FB660652</PackageCertificateThumbprint>
     <AppxBundle>Always</AppxBundle>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
